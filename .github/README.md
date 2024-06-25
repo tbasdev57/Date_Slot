@@ -2,7 +2,7 @@
 
 Flexible date picker for React. Composable. Customizable. Open Source.
 
-![Datepickers preview](preview.png)
+![Datepickers preview](preview1.png)
 
 ## Usage
 
