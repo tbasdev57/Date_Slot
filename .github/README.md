@@ -2,7 +2,8 @@
 
 Flexible date picker for React. Composable. Customizable. Open Source.
 
-![Datepickers preview](preview1.png)
+!![Aperçu de l'application](https://github.com/tbasdev57/Date_Slot/blob/main/preview1.png)
+
 
 ## Usage
 
