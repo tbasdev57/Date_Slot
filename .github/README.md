@@ -1,4 +1,4 @@
-# @bryanberger/datepicker
+# @tbasdev57/Date_Slot
 
 Flexible date picker for React. Composable. Customizable. Open Source.
 
@@ -9,13 +9,13 @@ Flexible date picker for React. Composable. Customizable. Open Source.
 **Install the package.**
 
 ```bash
-npm install @bryanberger/datepicker
+npm install @tbasdev57/Date_Slot
 ```
 
 **Compose your calendar.**
 
 ```ts
-import { Calendar } from '@bryanberger/datepicker';
+import { Calendar } from '@tbasdev57/Date_Slot';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const MyDatePicker = () => {
